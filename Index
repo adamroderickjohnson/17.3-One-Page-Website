@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>One Page Site</title>
+    <link rel="stylesheet" href="css.css">
+    <title>One Page Site</title>
+
 
 </head>
 <body>
